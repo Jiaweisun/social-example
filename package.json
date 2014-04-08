@@ -2,11 +2,12 @@
   "name": "social-example",
   "description": "Social media example",
   "keywords": ["social","media","example"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/rjrodger/social-example",
   "author": "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)",
   "contributors": [
-    "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)"
+    "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)",
+    "Frank Walsh <fxwalsh@wit.ie>"
   ],
   "dependencies": {
     "dispatch": "*",
