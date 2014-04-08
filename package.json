@@ -6,8 +6,7 @@
   "homepage": "https://github.com/rjrodger/social-example",
   "author": "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)",
   "contributors": [
-    "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)",
-    "Frank Walsh <fxwalsh@wit.ie>"
+    "Richard Rodger <richard@ricebridge.com> (http://richardrodger.com/)", "Frank Walsh <fxwalsh@wit.ie>"
   ],
   "dependencies": {
     "dispatch": "*",
@@ -18,7 +17,7 @@
     "node-oauth": "*",
     "twitter": "*",
     "facebook-client": "*",
-    "data-capsule":"git://github.com/fxwalsh/data-capsule.git"
+    "data-capsule":"git://github.com/fwwalsh/data-capsule.git"
   },
   "engines": {
     "node": ">=0.4"

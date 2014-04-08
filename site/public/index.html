@@ -24,6 +24,14 @@
   <script src="js/util.js"></script>
   <script src="js/data-capsule-client.js"></script>
   <script src="js/app.js"></script>
+
+  <!-- added to overcome issue https://github.com/bnoguchi/everyauth/issues/12 -->
+  <script type="text/javascript">
+    if (window.location.hash && window.location.hash == '#_=_') {
+        window.location.hash = '';
+    }
+  </script>
+
 </head> 
 <body> 
 
