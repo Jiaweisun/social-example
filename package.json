@@ -11,13 +11,13 @@
   "dependencies": {
     "dispatch": "*",
     "node-uuid": "*",
-    "connect": "1.8.6",
+    "connect": "*",
     "request": "*",
-    "everyauth": "git://github.com/rjrodger/everyauth.git#1755a1f5fb4d68fa7319494f873da86de95d504a",
+    "everyauth": "*",
     "node-oauth": "*",
     "twitter": "*",
     "facebook-client": "*",
-    "data-capsule":"git://github.com/rjrodger/data-capsule.git"
+    "data-capsule":"git://github.com/fxwalsh/data-capsule.git"
   },
   "engines": {
     "node": ">=0.4"
